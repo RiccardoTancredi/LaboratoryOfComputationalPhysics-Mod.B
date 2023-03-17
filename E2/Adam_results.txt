@@ -1,0 +1,15 @@
+
+77% con one_hot_encoding nel training e nella rappresentazione, [0, 1] (500 epochs)
+
+82% con one_hot_encoding nel training e nella rappresentazione, [-1, 1] bits (100 epochs)
+(Riottenuto due volte)
+
+59% con one_hot_encoding solo nella rappresentazione, [-1, 1] bits (100 epochs)
+
+45%, [0, 1] (200 epochs)
+
+0%, [-1, 1] (500 epochs)
+
+14%, [0, 1] (150 epochs)
+
+78% con one_hot_encoding nel training e nella rappresentazione, [-1, 1] bits (100 epochs) + CD = 5
