@@ -1,0 +1,27 @@
+Adam_20_one_hot_Spin --> our final score:0.9972
+ --> AAI final score (in order A_S, A_T, energy): (0.653, 0.49995, 0.023409002500000005)
+
+Adam_1_one_hot_Spin --> our final score:0.9999
+ --> AAI final score (in order A_S, A_T, energy): (0.74445, 0.4998, 0.059755842499999975)
+
+Adam_5_one_hot_Spin --> our final score:0.9971
+ --> AAI final score (in order A_S, A_T, energy): (0.61535, 0.4997, 0.013305712499999988)
+
+Adam_1_one_hot_CenteringTrick_Spin --> our final score:0.9941
+ --> AAI final score (in order A_S, A_T, energy): (0.71405, 0.4998, 0.045817442499999986)
+
+Vanilla_1_one_hot_CenteringTrick_Spin --> our final score:0.9925
+ --> AAI final score (in order A_S, A_T, energy): (0.6122, 0.5, 0.012588839999999992)
+
+Adam_20_one_hot_Spin --> our final score:0.9972
+ --> AAI final score (in order A_S, A_T, energy): (0.653, 0.49995, 0.023409002500000005)
+
+Adam_10_one_hot_Spin --> our final score:0.9998
+ --> AAI final score (in order A_S, A_T, energy): (0.7196, 0.49965, 0.04822428250000001)
+
+Adam_1_one_hot_Spin --> our final score:0.9962
+ --> AAI final score (in order A_S, A_T, energy): (0.71065, 0.4998, 0.0443734625)
+
+Adam_5_one_hot_NO-Spin --> our final score:1.0
+ --> AAI final score (in order A_S, A_T, energy): (0.62945, 0.4999, 0.01675731249999999)
+

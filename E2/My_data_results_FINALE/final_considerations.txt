@@ -1,0 +1,12 @@
+Adam_1_one_hot_Spin --> our final score:0.9797
+ --> AAI final score (in order A_S, A_T, energy): (0.82525, 0.50075, 0.10578812500000002)
+
+Adam_5_one_hot_Spin --> our final score:0.995
+ --> AAI final score (in order A_S, A_T, energy): (0.77145, 0.5001, 0.07368511249999998)
+
+Adam_10_one_hot_Spin --> our final score:0.9965
+ --> AAI final score (in order A_S, A_T, energy): (0.81115, 0.50005, 0.09681432500000002)
+
+Adam_20_one_hot_Spin --> our final score:0.9975
+ --> AAI final score (in order A_S, A_T, energy): (0.8859, 0.50005, 0.14891881250000003)
+
